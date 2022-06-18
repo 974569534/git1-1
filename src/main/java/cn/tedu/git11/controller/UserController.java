@@ -1,4 +1,4 @@
-package controller;
+package cn.tedu.git11.controller;
 
 public class UserController {
 
